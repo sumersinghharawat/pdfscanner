@@ -1,0 +1,6 @@
+pymupdf
+fonttools
+freetype-py
+numpy
+pillow
+indic-transliteration
